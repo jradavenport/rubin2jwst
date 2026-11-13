@@ -1,0 +1,33 @@
+{
+ "_note": "All user-facing one-liners live here. Edit freely; no code changes needed. {dist} = distance to the nearest alert in degrees, {date} = a dayObs, {n} = a count.",
+
+ "title": "Has Rubin seen JWST?",
+
+ "answer": {
+  "never": "NOT YET.",
+  "last_night": "YES!",
+  "earlier": "NOT LAST NIGHT."
+ },
+ "answer_sub": {
+  "never": "{n} nights watched since {date}. Zero sightings.",
+  "last_night": "Rubin caught JWST last night!",
+  "earlier": "Last caught on {date}."
+ },
+
+ "status_line": {
+  "JWST not up": "JWST never got above 20° from Rubin. Nothing to see.",
+  "no alerts": "No new alerts from Rubin this night.",
+  "not covered": "Closest alert was {dist}° away.",
+  "covered, no match": "Closest alert was {dist}° away.",
+  "covered, loose match only": "Something within 20″ of JWST. Probably not it; check by eye.",
+  "MATCH": "Rubin caught JWST within 2″."
+ },
+
+ "counts_note": "New Lasair objects = first detected this night. Not Rubin's total alerts: re-detections of known objects also send alerts and aren't counted here.",
+
+ "alerts_empty": "No Rubin alert has matched JWST yet. This table starts with the first one.",
+
+ "sky_caption": "Equatorial coordinates, RA increasing to the left. Turquoise heat map represents nights with new alerts within 1° cell, but may not accurately track the density of total alerts.",
+
+ "footer": "This is an independent project, not affiliated with Rubin Observatory, Lasair, NASA, ESA, CSA, STScI, the University of Washington, or any other government agency. Data: Lasair-LSST alert broker and JPL Horizons."
+}

@@ -1,0 +1,108 @@
+{
+ "meta": {
+  "schema": 1,
+  "generated_utc": "2026-11-13T18:13:20+00:00",
+  "commit": null,
+  "target": "jwst"
+ },
+ "nights": [
+  {
+   "dayobs": "2026-11-06",
+   "status": "not covered",
+   "n_new_objects": 8669,
+   "nearest_alert_deg": 39.55,
+   "n_in_boxes": null,
+   "n_match": 0,
+   "n_tight": 0,
+   "track_start_utc": "2026-11-07T02:50:00Z",
+   "track_end_utc": "2026-11-07T09:35:00Z",
+   "ra_mid": 71.457,
+   "dec_mid": 16.586,
+   "checked_utc": "2026-11-12T15:53+00:00"
+  },
+  {
+   "dayobs": "2026-11-07",
+   "status": "not covered",
+   "n_new_objects": 5835,
+   "nearest_alert_deg": 40.24,
+   "n_in_boxes": null,
+   "n_match": 0,
+   "n_tight": 0,
+   "track_start_utc": "2026-11-08T02:50:00Z",
+   "track_end_utc": "2026-11-08T09:29:59Z",
+   "ra_mid": 72.036,
+   "dec_mid": 16.329,
+   "checked_utc": "2026-11-12T15:53+00:00"
+  },
+  {
+   "dayobs": "2026-11-08",
+   "status": "not covered",
+   "n_new_objects": 2303,
+   "nearest_alert_deg": 39.73,
+   "n_in_boxes": null,
+   "n_match": 0,
+   "n_tight": 0,
+   "track_start_utc": "2026-11-09T02:44:59Z",
+   "track_end_utc": "2026-11-09T09:29:59Z",
+   "ra_mid": 72.58,
+   "dec_mid": 16.073,
+   "checked_utc": "2026-11-12T15:53+00:00"
+  },
+  {
+   "dayobs": "2026-11-09",
+   "status": "not covered",
+   "n_new_objects": 7662,
+   "nearest_alert_deg": 80.32,
+   "n_in_boxes": null,
+   "n_match": 0,
+   "n_tight": 0,
+   "track_start_utc": "2026-11-10T02:44:59Z",
+   "track_end_utc": "2026-11-10T09:29:59Z",
+   "ra_mid": 73.094,
+   "dec_mid": 15.821,
+   "checked_utc": "2026-11-12T15:53+00:00"
+  },
+  {
+   "dayobs": "2026-11-10",
+   "status": "not covered",
+   "n_new_objects": 13498,
+   "nearest_alert_deg": 40.38,
+   "n_in_boxes": null,
+   "n_match": 0,
+   "n_tight": 0,
+   "track_start_utc": "2026-11-11T02:39:59Z",
+   "track_end_utc": "2026-11-11T09:29:59Z",
+   "ra_mid": 73.584,
+   "dec_mid": 15.573,
+   "checked_utc": "2026-11-13T17:10+00:00"
+  },
+  {
+   "dayobs": "2026-11-11",
+   "status": "not covered",
+   "n_new_objects": 42198,
+   "nearest_alert_deg": 41.1,
+   "n_in_boxes": null,
+   "n_match": 0,
+   "n_tight": 0,
+   "track_start_utc": "2026-11-12T02:39:59Z",
+   "track_end_utc": "2026-11-12T09:29:59Z",
+   "ra_mid": 74.045,
+   "dec_mid": 15.33,
+   "checked_utc": "2026-11-13T17:10+00:00"
+  },
+  {
+   "dayobs": "2026-11-12",
+   "status": "not covered",
+   "n_new_objects": 6669,
+   "nearest_alert_deg": 41.44,
+   "n_in_boxes": null,
+   "n_match": 0,
+   "n_tight": 0,
+   "track_start_utc": "2026-11-13T02:35:00Z",
+   "track_end_utc": "2026-11-13T09:29:59Z",
+   "ra_mid": 74.483,
+   "dec_mid": 15.092,
+   "checked_utc": "2026-11-13T17:10+00:00"
+  }
+ ]
+}

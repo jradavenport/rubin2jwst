@@ -1,0 +1,8 @@
+[
+ {
+  "slug": "jwst",
+  "name": "JWST",
+  "horizons_id": "-170",
+  "description": "JWST, in orbit around Sun-Earth L2"
+ }
+]

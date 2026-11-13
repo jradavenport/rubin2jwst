@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+# PNG maps are local conveniences; the site draws every map from the JSON
+output/*/plots/
+# demo night (asteroid stand-in) is for local preview only, never committed or deployed
+demo/
+# local-preview symlinks and the Pages build folder
+site/output
+site/demo
+_site/

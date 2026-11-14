@@ -1,25 +1,11 @@
 {
  "meta": {
   "schema": 1,
-  "generated_utc": "2026-11-14T00:36:38+00:00",
-  "commit": "30d8cee299d06e420b519b7110e988e1ced8c3b8",
+  "generated_utc": "2026-11-14T18:59:43+00:00",
+  "commit": "0168d22e5b413f5a874f8c919f88c5d682d153ed",
   "target": "jwst"
  },
  "nights": [
-  {
-   "dayobs": "2026-11-06",
-   "status": "not covered",
-   "n_new_objects": 8669,
-   "nearest_alert_deg": 39.55,
-   "n_in_boxes": null,
-   "n_match": 0,
-   "n_tight": 0,
-   "track_start_utc": "2026-11-07T02:50:00Z",
-   "track_end_utc": "2026-11-07T09:35:00Z",
-   "ra_mid": 71.457,
-   "dec_mid": 16.586,
-   "checked_utc": "2026-11-12T15:53+00:00"
-  },
   {
    "dayobs": "2026-11-07",
    "status": "not covered",
@@ -79,7 +65,7 @@
   {
    "dayobs": "2026-11-11",
    "status": "not covered",
-   "n_new_objects": 42198,
+   "n_new_objects": 42244,
    "nearest_alert_deg": 41.1,
    "n_in_boxes": null,
    "n_match": 0,
@@ -88,12 +74,12 @@
    "track_end_utc": "2026-11-12T09:29:59Z",
    "ra_mid": 74.045,
    "dec_mid": 15.33,
-   "checked_utc": "2026-11-14T00:36+00:00"
+   "checked_utc": "2026-11-14T18:59+00:00"
   },
   {
    "dayobs": "2026-11-12",
    "status": "not covered",
-   "n_new_objects": 6669,
+   "n_new_objects": 6670,
    "nearest_alert_deg": 41.44,
    "n_in_boxes": null,
    "n_match": 0,
@@ -102,7 +88,21 @@
    "track_end_utc": "2026-11-13T09:29:59Z",
    "ra_mid": 74.483,
    "dec_mid": 15.092,
-   "checked_utc": "2026-11-14T00:36+00:00"
+   "checked_utc": "2026-11-14T18:59+00:00"
+  },
+  {
+   "dayobs": "2026-11-13",
+   "status": "not covered",
+   "n_new_objects": 15635,
+   "nearest_alert_deg": 41.24,
+   "n_in_boxes": null,
+   "n_match": 0,
+   "n_tight": 0,
+   "track_start_utc": "2026-11-14T02:30:00Z",
+   "track_end_utc": "2026-11-14T09:29:59Z",
+   "ra_mid": 74.902,
+   "dec_mid": 14.86,
+   "checked_utc": "2026-11-14T18:59+00:00"
   }
  ]
 }

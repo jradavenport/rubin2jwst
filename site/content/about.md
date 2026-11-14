@@ -13,12 +13,15 @@ Examining known, human-made technology is an important checkpoint in our search 
 - With the [Lasair](https://lasair.lsst.ac.uk/) alert broker we count *new* alert objects (i.e. **not** known variable objects) in a 1x1° grid over the sky for the night.
 - If any new alerts are within a few degrees, we check all nearby alerts against JWST's predicted position at its detection time. Within 2 arcseconds is called a "detection" here, while 2–20 arcseconds is a loose candidate.
 
+Note: the Horizons call could easily be replaced with [satchecker](https://github.com/iausathub/satchecker), which would allow general lookup for many other human-made satellites. We opted for Horizons here since this project was originally desinged alongside asteroid/comet work.
 
 ## Known Issues
 
 - JWST may pass through areas of sky that Rubin is imaging but not currently sending alerts for (e.g. does not have templates prepared yet). This will become rare after the first year of LSST. Additional detections of JWST by Rubin will be recoverable in full data releases, rather than the Alert stream.
 - JWST could overlap a known moving object or variable source, causing Rubin or Lasair to mistakenly link an alert to an old target, or miss JWST entirely.
 - Rubin didn't issue an alert because JWST is saturated, masked (e.g. near a bad pixel or bright source), or is in a very dense field and the alert pipelines may not have run correctly for a variety of other reasons.
+
+Found a problem, or think Rubin caught JWST and we missed it? [Report it on GitHub](https://github.com/jradavenport/rubin2jwst/issues).
 
 ## Data
 

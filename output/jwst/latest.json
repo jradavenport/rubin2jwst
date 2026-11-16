@@ -1,8 +1,8 @@
 {
  "meta": {
   "schema": 1,
-  "generated_utc": "2026-11-15T19:40:00+00:00",
-  "commit": "437f1697220e1de5cb81467b65abf8c4aa4773fb",
+  "generated_utc": "2026-11-16T18:21:32+00:00",
+  "commit": "2a2244e3ce0d40cb203cc75fb64b2064cdf3b554",
   "target": "jwst"
  },
  "target": {
@@ -10,18 +10,18 @@
   "name": "JWST"
  },
  "last_night": {
-  "dayobs": "2026-11-14",
-  "status": "not covered",
-  "n_new_objects": 41573,
-  "nearest_alert_deg": 41.5,
+  "dayobs": "2026-11-15",
+  "status": "no alerts",
+  "n_new_objects": 0,
+  "nearest_alert_deg": null,
   "n_in_boxes": null,
   "n_match": 0,
   "n_tight": 0,
-  "track_start_utc": "2026-11-15T02:30:00Z",
-  "track_end_utc": "2026-11-15T09:24:59Z",
-  "ra_mid": 75.3,
-  "dec_mid": 14.633,
-  "checked_utc": "2026-11-15T19:39+00:00",
+  "track_start_utc": "2026-11-16T02:24:59Z",
+  "track_end_utc": "2026-11-16T09:24:59Z",
+  "ra_mid": 75.684,
+  "dec_mid": 14.414,
+  "checked_utc": "2026-11-16T18:21+00:00",
   "matches": []
  },
  "last_match": null,
@@ -33,7 +33,7 @@
  },
  "totals": {
   "first_night": "2025-10-24",
-  "nights_checked": 387,
+  "nights_checked": 388,
   "nights_with_alerts": 145,
   "nights_covered": 0,
   "n_detections": 0,

@@ -4,7 +4,7 @@ name: nightly
 # results in output/, and publish the website (site/ + output/) to GitHub Pages.
 on:
   schedule:
-    - cron: "0 12 * * *"     # 12:00 UTC
+    - cron: "32 12 * * *"     # 12:32 UTC
   workflow_dispatch:
 
 permissions:

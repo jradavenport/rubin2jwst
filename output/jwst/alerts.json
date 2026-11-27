@@ -1,8 +1,8 @@
 {
  "meta": {
   "schema": 1,
-  "generated_utc": "2026-11-26T21:52:33+00:00",
-  "commit": "3d3a7340d3d368c8d9e322582ee9c2e85c986a5f",
+  "generated_utc": "2026-11-27T21:35:34+00:00",
+  "commit": "6120ea97a26548a8671484fb630db07e1f7029b0",
   "target": "jwst"
  },
  "alerts": []

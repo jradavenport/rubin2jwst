@@ -1,8 +1,8 @@
 {
 "meta": {
 "schema": 1,
-"generated_utc": "2026-11-27T21:35:34+00:00",
-"commit": "6120ea97a26548a8671484fb630db07e1f7029b0",
+"generated_utc": "2026-11-28T20:30:23+00:00",
+"commit": "e96675d25774d806239ca3b0bab2f36de22fd0e2",
 "target": "jwst"
 },
 "nights": [
@@ -5576,7 +5576,7 @@
 "track_end_utc": "2026-11-26T09:24:59Z",
 "ra_mid": 78.81,
 "dec_mid": 12.559,
-"checked_utc": "2026-11-27T21:35+00:00"
+"checked_utc": "2026-11-28T20:30+00:00"
 },
 {
 "dayobs": "2026-11-26",
@@ -5590,7 +5590,21 @@
 "track_end_utc": "2026-11-27T09:24:59Z",
 "ra_mid": 79.053,
 "dec_mid": 12.405,
-"checked_utc": "2026-11-27T21:35+00:00"
+"checked_utc": "2026-11-28T20:30+00:00"
+},
+{
+"dayobs": "2026-11-27",
+"status": "not covered",
+"n_new_objects": 400,
+"nearest_alert_deg": 44.65,
+"n_in_boxes": null,
+"n_match": 0,
+"n_tight": 0,
+"track_start_utc": "2026-11-28T01:45:00Z",
+"track_end_utc": "2026-11-28T09:20:00Z",
+"ra_mid": 79.281,
+"dec_mid": 12.256,
+"checked_utc": "2026-11-28T20:30+00:00"
 }
 ]
 }
